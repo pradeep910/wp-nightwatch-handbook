@@ -1,6 +1,6 @@
 # Use For loop into nightwatch
 
-When you have multiple data (i.e Json format) and want to test by iterating it then you can use `for` loop for that.
+When you have many data (i.e Json format) and want to test by iterating it then you can use `for` loop for that.
 
 You can not perform assertions directly into `for` loop.
 
